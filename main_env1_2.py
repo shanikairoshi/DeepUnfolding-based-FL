@@ -9,7 +9,7 @@ import numpy as np
 
 #%% Parameters
 T = 10                  # number of rounds for FL
-M = 100                 # number of learning iterations
+M = 10                # number of learning iterations
 E = 2                   # number of epochs
 batch_size = 50         # mini-batch size
 lr_du = 0.001           # learning rate for proposed preprocess
